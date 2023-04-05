@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI-Calci</string>
+    <string name="weight">Kg</string>
+    <string name="heightInches">Inch</string>
+    <string name="heightFeet">Feet</string>
+    <string name="BMI">Calculate BMI</string>
+</resources>
