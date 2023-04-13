@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         edtWeight =findViewById(R.id.weight);
         edtHeightFt=findViewById(R.id.heightFt);
         edtHeightIn=findViewById(R.id.heightIn);
-        edtAge=findViewById(R.id.age);
+
         calcBmi=findViewById(R.id.bmiButton);
         txtResult=findViewById(R.id.textResult);
         clmain=findViewById(R.id.clmain);
